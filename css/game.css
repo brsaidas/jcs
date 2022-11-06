@@ -1,0 +1,29 @@
+body {
+	background-image: url("../src/fundo.webp");
+	background-size: cover;
+}
+
+.Bloco {
+	width: 100px;
+	height: 100px;
+	position: fixed;
+	background-image: url("../src/nave.webp");
+	background-size: cover;
+}
+
+.Score {
+	font-family: consolas;
+	width: 200px;
+	color: white;
+	position: fixed;
+	background-color: black;
+}
+
+.Life {
+	font-family: consolas;
+	width: 200px;
+	color: white;
+	position: fixed;
+	margin-top: 75px;
+	background-color: black;
+}
